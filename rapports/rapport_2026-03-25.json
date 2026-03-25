@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "date": "2026-03-25 10:37:41",
+        "utilisateur": "Deusexi",
+        "os": "Windows 11",
+        "source": "C:\\loganalyzer\\logs_test"
+    },
+    "statistiques": {
+        "total_lignes": 60,
+        "par_niveau": {
+            "ERROR": 17,
+            "WARN": 16,
+            "INFO": 27
+        },
+        "top5_erreurs": [
+            {
+                "message": "Échec de la connexion au serveur LDAP",
+                "occurrences": 4
+            },
+            {
+                "message": "Fichier de configuration manquant : /etc/app/config.yml",
+                "occurrences": 3
+            },
+            {
+                "message": "Erreur de décodage JSON dans la réponse de l'API tierce",
+                "occurrences": 3
+            },
+            {
+                "message": "Connexion refusée par le serveur Redis",
+                "occurrences": 3
+            },
+            {
+                "message": "Timeout dépassé lors de la requête vers API externe",
+                "occurrences": 2
+            }
+        ]
+    },
+    "fichiers_traites": [
+        "C:\\loganalyzer\\logs_test\\app1.log",
+        "C:\\loganalyzer\\logs_test\\app2.log",
+        "C:\\loganalyzer\\logs_test\\app3.log"
+    ]
+}

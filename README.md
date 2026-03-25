@@ -5,6 +5,12 @@ Pipeline d'analyse et d'archivage de logs applicatifs — TP Python L3, 2026.
 
 ---
 
+## Auteur
+ACAKPO Joanita
+d'Almeida Féliciano
+AMOUSSA Soultone 
+AYANOU Prince
+
 ## 1. Description du projet et objectif
 
 **LogAnalyzer Pro** est un outil CLI (Command Line Interface) Python qui automatise la supervision des logs applicatifs générés quotidiennement par des services DevOps. Il :
