@@ -1,0 +1,20 @@
+2024-04-02 09:00:05 INFO  Initialisation du moteur de recherche
+2024-04-02 09:00:30 ERROR Fichier de configuration manquant : /etc/app/config.yml
+2024-04-02 09:01:00 INFO  Rechargement de la configuration via valeurs par défaut
+2024-04-02 09:01:55 WARN  Certificat SSL expirant dans 7 jours
+2024-04-02 09:02:40 INFO  Connexion WebSocket établie avec le broker
+2024-04-02 09:03:15 ERROR Fichier de configuration manquant : /etc/app/config.yml
+2024-04-02 09:04:00 WARN  Nombre de connexions actives dépasse le seuil recommandé
+2024-04-02 09:05:22 INFO  Indexation des données terminée (4200 documents)
+2024-04-02 09:06:10 ERROR Erreur de décodage JSON dans la réponse de l'API tierce
+2024-04-02 09:07:00 INFO  Session utilisateur 'admin' créée
+2024-04-02 09:08:45 WARN  Certificat SSL expirant dans 7 jours
+2024-04-02 09:09:30 ERROR Fichier de configuration manquant : /etc/app/config.yml
+2024-04-02 09:10:00 INFO  Rotation des logs effectuée
+2024-04-02 09:11:15 WARN  Mémoire disponible inférieure à 512 Mo
+2024-04-02 09:12:00 ERROR Erreur de décodage JSON dans la réponse de l'API tierce
+2024-04-02 09:13:30 INFO  Synchronisation réussie avec le serveur distant
+2024-04-02 09:14:00 INFO  Healthcheck HTTP répondu 200 OK
+2024-04-02 09:15:10 WARN  Taux d'erreur HTTP 5xx supérieur à 5% sur la dernière minute
+2024-04-02 09:16:00 ERROR Erreur de décodage JSON dans la réponse de l'API tierce
+2024-04-02 09:17:45 INFO  Pipeline de traitement de données terminé avec succès

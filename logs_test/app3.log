@@ -1,0 +1,20 @@
+2024-04-03 10:00:00 INFO  Démarrage du service de notification
+2024-04-03 10:00:55 INFO  Queue de messages prête (0 messages en attente)
+2024-04-03 10:01:30 WARN  Disque SSD approchant fin de vie (SMART alert)
+2024-04-03 10:02:10 ERROR Connexion refusée par le serveur Redis
+2024-04-03 10:03:00 INFO  Reconnexion Redis établie avec succès
+2024-04-03 10:04:15 WARN  Utilisation CPU supérieure à 85%
+2024-04-03 10:05:00 ERROR Connexion refusée par le serveur Redis
+2024-04-03 10:06:40 INFO  Envoi de 45 notifications email réussi
+2024-04-03 10:07:25 WARN  Token d'authentification proche de l'expiration
+2024-04-03 10:08:00 ERROR Accès refusé : permissions insuffisantes pour /var/secure
+2024-04-03 10:09:10 INFO  Renouvellement automatique du token effectué
+2024-04-03 10:10:00 WARN  Disque SSD approchant fin de vie (SMART alert)
+2024-04-03 10:11:30 ERROR Connexion refusée par le serveur Redis
+2024-04-03 10:12:00 INFO  Snapshot Redis créé avec succès
+2024-04-03 10:13:45 WARN  Utilisation CPU supérieure à 85%
+2024-04-03 10:14:20 INFO  Rapport de synthèse hebdomadaire envoyé à l'équipe
+2024-04-03 10:15:00 ERROR Accès refusé : permissions insuffisantes pour /var/secure
+2024-04-03 10:16:10 INFO  Arrêt planifié du service de notification
+2024-04-03 10:17:05 WARN  Processus zombie détecté (PID 4217) — intervention requise
+2024-04-03 10:18:00 INFO  Nettoyage des fichiers temporaires terminé
